@@ -1,0 +1,7 @@
+import = [
+  "~/.config/alacritty/custom-colorscheme.toml"
+]
+
+[font]
+normal = { family = "IosevkaTerm Nerd Font", style = "Medium" }
+size = 12

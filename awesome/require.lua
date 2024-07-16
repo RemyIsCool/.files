@@ -1,0 +1,10 @@
+gears = require("gears")
+awful = require("awful")
+require("awful.autofocus")
+wibox = require("wibox")
+beautiful = require("beautiful")
+naughty = require("naughty")
+menubar = require("menubar")
+hotkeys_popup = require("awful.hotkeys_popup")
+
+require("awful.hotkeys_popup.keys")
